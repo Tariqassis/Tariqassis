@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Olá! eu sou Tariq Assis.</h1>
 - 🌱 Estou estudando e procurando me aperfeiçoar no Front-end.
+#
 - 👨‍💻 Atualmente estou na graduação em Análise e desenvolvimento de sistemas. 
 
 ##
