@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/tariq_assis/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/></a>
   
-  <br> <br>
+  <br> 
   
  ## 🛠 &nbsp;Tech Stack
 
